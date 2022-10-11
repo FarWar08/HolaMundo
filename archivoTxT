@@ -1,0 +1,11 @@
+#include <Stdio.h>
+int x, y;
+float total;
+
+void main (){
+  x=10;
+  y=50;
+  
+  total= x+y;
+  printf("Suma es igual a: &d", total);
+  }
